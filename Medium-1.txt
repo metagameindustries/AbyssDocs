@@ -1,23 +1,4 @@
-What is Abyss World
-ABYSS WORLD
-ABYSS WORLD
-
-3 min read
-·
-Sep 14, 2022
-466
-
-
-7
-
-
-
-
-
-
 By MetaGame Industries, “Abyss World” has been developed over the last two years and received support from AMD, Epic Games & IGN.
-
-Story
 
 In Abyss World, players embark on a journey through the vast world of Nordinia to uncover the secrets of the now-missing and mysterious “old tide.” As they explore the traces of this ancient phenomenon, they will encounter challenges and obstacles that will test their skills and ingenuity.
 
@@ -36,33 +17,6 @@ The Heroic Souls are a powerful force to be reckoned with. Each has unique abili
 In your Territory, you can improve the basic combat effectiveness and stats of your Heroes by crafting legendary equipment for them. This will require farming materials in the Shattered Lands, so be sure to explore and gather as much as you can.
 
 As you and your fellow summoners explore the magnificent fantasy world that was once destroyed, you will have the opportunity to exchange resources and form your dream team of powerful warriors. Join us on this epic adventure and build your team of Heroes to become the ultimate force in the world of the Abyss.
-
-
-Explore for more:
-
-Twitter: https://twitter.com/AbyssWorldHQ
-
-Website: abyssworld.games
-
-Discord: https://discord.gg/abyssworldmg
-
-Metagame Studio: https://www.metagame.industries/
-From Dreamers to Pioneers: Why We Create Abyss World
-ABYSS WORLD
-ABYSS WORLD
-
-5 min read
-·
-Mar 6
-205
-
-
-16
-
-
-
-
-
 
 ‘Abyss World’ is a testament to the deep ardor that Joe and I hold for the gaming world.
 
@@ -107,37 +61,6 @@ Abyss World is a great adventure.
 We are all pioneers.
 
 Special thanks to Mysten Labs and other supporters, who have been a beacon of light in the midst of a cold winter.
-
-Joe & Max
-
-Metagame Team
-
-
-Contact us
-
-Twitter: https://twitter.com/AbyssWorldHQ
-
-Website: abyssworld.games
-
-Discord: https://discord.gg/abyssworldmg
-
-Metagame Studio: https://www.metagame.industries/
-Community Q&A –2023.03
-ABYSS WORLD
-ABYSS WORLD
-
-3 min read
-·
-Mar 10
-27
-
-
-2
-
-
-
-
-
 
 We want to express our heartfelt gratitude to the new members who have joined our community in the past few days!
 
@@ -185,26 +108,6 @@ The Web3 space bubble can not sustain itself without practical applications. Too
 Our original intention is to complete a good game that we have in mind and gain recognition and popularity among a group of players who appreciate it.
 
 Once we achieve that, our team’s historical mission will be accomplished, and perhaps Abyss World will become a community-owned project with intrinsic value.
-
-We are working hard to change this industry with our modest efforts.
-
-Sincere thanks,
-
-Metagame Industries Team
-About Abyss World NFT Mint
-ABYSS WORLD
-ABYSS WORLD
-
-3 min read
-·
-Mar 14
-85
-
-
-1
-
-
-
 
 
 
@@ -260,26 +163,6 @@ Additional information:
 NFTs will be first issued on Ethereum as ERC-721 standard. The rights redemption of NFTs (token airdrop/utility in the game) will be mapped after Sui Mainnet.
 
 The official minting date and the privileges of each rarity will be announced very soon.
-
-Whitepaper link: https://docs.abyssworld.xyz/abyss-world-whitepaper/
-
-Tokenomics link: https://www.abyssworld.games/Economics-Whitepaper
-Abyss World Gazer NFT MINT Is Coming!
-ABYSS WORLD
-ABYSS WORLD
-
-4 min read
-·
-Mar 18
-77
-
-
-2
-
-
-
-
-
 
 As a flagship open-world ARPG game funded by Mysten Labs and launched on the Sui chain, Abyss World will become the best example of community-driven gaming. Abyss World has already received over 70,000 wishlists on Steam and gained recognition from traditional players for its game quality, as well as rewards from Microsoft’s startup program (more news will be announced soon).
 
@@ -550,29 +433,6 @@ We will tally up the final scores for all addresses and distribute the relevant 
 
 The purpose of this live stream guessing game is to expand the Abyss World community through free tickets and showcase the rich and fun content within our game. The AI-driven Cyber Colosseum will be a long-term operating section of Abyss World, and players will still have the opportunity to participate and receive future airdrop rewards, etc., even after this live stream event.
 
-Explore for more:
-
-Twitter: https://twitter.com/AbyssWorldHQ
-
-Website: abyssworld.games
-
-Discord: https://discord.gg/abyssworldmg
-
-Metagame Studio: https://www.metagame.industries/
-AI Auto-Battler Rewards Now
-ABYSS WORLD
-ABYSS WORLD
-
-2 min read
-·
-May 6
-118
-
-
-
-
-
-
 
 Exciting News to Share！
 
@@ -594,31 +454,6 @@ All of our $AWC tokens are to be distributed today! Please remember to check you
 Remember, all $AWC can be swapped to $AWT after TGE. Congratulations in advance on receiving the native token of the game, $AWT!
 
 Attention: We are now taking snapshots of each address. Please do not transfer or trade your NFT for the next 12 hours, as doing so will make you ineligible for rewards.
-
-Explore for more:
-
-Twitter: https://twitter.com/AbyssWorldHQ
-
-Website: abyssworld.games
-
-Discord: https://discord.gg/abyssworldmg
-
-Metagame Studio: https://www.metagame.industries/
-Successful $AWC Airdrop
-ABYSS WORLD
-ABYSS WORLD
-
-1 min read
-·
-May 8
-227
-
-
-1
-
-
-
-
 
 
 Dear community members,
@@ -643,32 +478,6 @@ Moving your $AWC within your Sui wallet will not have any effect, as the airdrop
 Again, thank you for the tremendous support from every community member!
 
 There will be more opportunities to earn $AWC this month, so stay cool!
-
-Explore for more:
-
-Twitter: https://twitter.com/AbyssWorldHQ
-
-Website: abyssworld.games
-
-Discord: https://discord.gg/abyssworldmg
-
-Metagame Studio: https://www.metagame.industries/
-Tokenomics Update — IDO
-ABYSS WORLD
-ABYSS WORLD
-
-3 min read
-·
-May 14
-195
-
-
-1
-
-
-
-
-
 
 We are excited to share that Abyss World’s Economic Whitepaper has been updated!
 
@@ -699,39 +508,10 @@ This will not only lead to true “deflation” from an economic perspective but
 Token Allocation
 With the upcoming IDO, we hope that everyone can join forces with Abyss World to create a high-quality community-driven game where there is no gap between web2 and web3, but only passionate players and future residents of the Metaverse.
 
-Let’s make it happen.
-
-Explore for more:
-
-Twitter: https://twitter.com/AbyssWorldHQ
-
-Website: abyssworld.games
-
-Discord: https://discord.gg/abyssworldmg
-
-Metagame Studio: https://www.metagame.industries/
-Abyss World Invite Contest
-ABYSS WORLD
-ABYSS WORLD
-
-2 min read
-·
-May 16
-965
-
-
-15
-
-
-
-
-
 
 Abyss World is gearing up for the launch of its IDO!
 
 To ensure greater user participation in our event, we have organized an exciting Invite Contest. This contest aims to enhance community engagement and offer attractive rewards to participants, and will be concluded with a BvB live stream event (guess to win). By completing specific tasks and taking part in designated activities, users will have the opportunity to earn $AWC and secure a spot on the IDO whitelist, granting them a 20% discount to purchase 100U.
-
-Where to Join: https://ca.abyssworld.games/
 
 Detailed Rules
 
@@ -751,31 +531,6 @@ Remember: First come, first served!
 We will announce how to claim your AWC tokens and the IDO whitelist before the start of the IDO. Please stay tuned for further updates.
 
 If there are a large number of uncontrollable sybil attacks, we will take measures to ban them.
-
-Explore for more:
-
-Twitter: https://twitter.com/AbyssWorldHQ
-
-Website: abyssworld.games
-
-Discord: https://discord.gg/abyssworldmg
-
-Metagame Studio: https://www.metagame.industries/
-The Airdrop release data for Gazer Holders
-ABYSS WORLD
-ABYSS WORLD
-
-2 min read
-·
-May 31
-24
-
-
-2
-
-
-
-
 
 Thank you to all the Gazer Holders for your continued attention and support. Thank you for your patience and we will also announce the release ratio and total release amount of Sui token and $AWT soon. Below are the detailed data:
 
@@ -801,34 +556,6 @@ Total Release Of $AWT
 Release Ratio Of $AWT
 The amount of IDO Whitelists for Gazer Holders:
 The Abyss World Team completed the address snapshot of Gazer Holders on 31st May 2023. So the amount of IDO WLs will be recorded.
-
-
-Explore for more:
-
-Twitter: https://twitter.com/AbyssWorldHQ
-
-Website: abyssworld.games
-
-Discord: https://discord.gg/abyssworldmg
-
-Metagame Studio: https://www.metagame.industries/
-
-OpenSea: https://opensea.io/collection/gazeraw
-IDO Detailed Rules
-ABYSS WORLD
-ABYSS WORLD
-
-5 min read
-·
-May 31
-163
-
-
-3
-
-
-
-
 
 Why Abyss World？
 
@@ -923,35 +650,6 @@ Embark with Abyss World on the most adventurous ship in the Web3 world.
 
 You will never be alone again.
 
-This is a golden chance to forge a new destiny’s decree.
-
-Rise from the Abyss!
-Explore for more:
-
-Twitter: https://twitter.com/AbyssWorldHQ
-
-Website: abyssworld.games
-
-Discord: https://discord.gg/abyssworldmg
-
-Metagame Studio: https://www.metagame.industries/
-
-Economic Paper: https://www.canva.com/design/DAFbvb0-CVg/0tZB4Eh0kwcRmCLuvXbuIA/view?utm_content=DAFbvb0-CVg&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink#1
-More information about Zero-Value Token Transfer Attack
-Dear Nordinian:
-ABYSS WORLD
-ABYSS WORLD
-
-2 min read
-·
-Jun 2
-7
-
-
-
-
-
-
 On June 1st, during our IDO event, we experienced a series of Zero-Value Token Transfer Attacks targeting our blockchain funds. As a security measure, we have deployed an automated transfer script that automatically transfers funds to the project team’s Binance address every 500,000 tokens.
 
 However, IDO funds and your assets are SAFE, and your wallet private key has NOT been compromised.
@@ -973,31 +671,6 @@ Beware of fraudulent addresses! Hackers are generating fake addresses similar to
 
 We are committed to long-term development with heartfelt sincerity, placing the community at the core of our values. We firmly believe that only through close collaboration with the community, listening to their voices, and addressing their needs, can we achieve sustainable growth and prosperity.
 Explore for more:
-
-Twitter: https://twitter.com/AbyssWorldHQ
-
-Website: abyssworld.games
-
-Discord: https://discord.gg/abyssworldmg
-
-Metagame Studio: https://www.metagame.industries/
-
-Economic Paper: https://www.canva.com/design/DAFbvb0-CVg/0tZB4Eh0kwcRmCLuvXbuIA/view?utm_content=DAFbvb0-CVg&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink#1
-AWT Audit Report & Listing Date
-Great News!
-ABYSS WORLD
-ABYSS WORLD
-
-2 min read
-·
-Jun 7
-111
-
-
-1
-
-
-
 
 
 Abyss World just officially passed its token smart contract audit by @MoveBit_, the top 1 audit firm focusing on Move ecosystem projects. Upon the release of our content, we will continue our efforts to cater to the expanding community of users.
@@ -1034,32 +707,6 @@ For winners of the IDO Rush event, $AWT tokens will be airdropped to the Zealy e
 For Gazer holders, the official team will open the claim portal before listing. Users will be able to input their Ethereum addresses holding Gazer NFTs and their personal Sui addresses through a web link. After verification, the corresponding amount of $AWT and $SUI will be automatically distributed within the specified timeframe. During this period, please refrain from trading Gazer NFTs to avoid potential issues with the airdrop.
 For more details and specific timing, please stay tuned for future official announcements.
 Explore for more:
-
-Twitter: https://twitter.com/AbyssWorldHQ
-
-Website: abyssworld.games
-
-Discord: https://discord.gg/abyssworldmg
-
-Metagame Studio: https://www.metagame.industries/
-
-Economic Paper: https://www.canva.com/design/DAFbvb0-CVg/0tZB4Eh0kwcRmCLuvXbuIA/view?utm_content=DAFbvb0-CVg&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink#1
-Here Comes the Abyss World Alpha Test (Phase 1)
-ABYSS WORLD
-ABYSS WORLD
-
-4 min read
-·
-Jun 29
-39
-
-
-4
-
-
-
-
-
 
 We greatly appreciate your support and patience. It is with immense excitement that we unveil the Alpha Test (Phase 1) of our project. This highly anticipated test will span over 5 days, commencing on July 3rd and concluding on July 8th, at 12 PM UTC time.
 
@@ -1114,14 +761,3 @@ Note: Your account will be bound with one email address. Each Gazer NFT or Game 
 
 We are happy to invite you to join our Discord and our Official Reddit community to discuss the game.
 
-Explore for more:
-
-Twitter: https://twitter.com/AbyssWorldHQ
-
-Website: abyssworld.games
-
-Discord: https://discord.gg/abyssworldmg
-
-Metagame Studio: https://www.metagame.industries/
-
-Reddit: https://www.reddit.com/r/AbyssWorldExplorers/
