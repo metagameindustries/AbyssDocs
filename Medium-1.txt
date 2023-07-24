@@ -761,3 +761,110 @@ Note: Your account will be bound with one email address. Each Gazer NFT or Game 
 
 We are happy to invite you to join our Discord and our Official Reddit community to discuss the game.
 
+
+Abyss AI Colosseum T0 Season
+ABYSS WORLD
+ABYSS WORLD
+
+4 min read
+·
+1 day ago
+3
+
+
+
+
+
+
+
+Dear Nordinian,
+
+We are excited to introduce the Abyss AI Colosseum, where you can experience thrilling AI battles in advance! To make the event more exciting, we are launching the T0 Season of Abyss AI Colosseum Vote to Earn Event. This T0 season will last for 6 days(3 battle days), and we will continuously update and optimize the rules to meet your needs in the next seasons.
+
+
+Here are the specific rules for the Abyss AI Colosseum T0 Season:
+
+Participation:
+
+Players can participate in all the voting activities to support heroes by purchasing Abyss AI Colosseum T0 Season Tickets using $AWT.
+
+Ticket price: 100 AWT per ticket (multiple tickets can be purchased with a maximum limit of 99 per address, you can use multiple addresses to purchase more tickets. And the tickets cannot be transferred or traded for this event.)
+
+Ticket redemption channel: Will announce on July 27th.
+
+AWT purchase channel:
+https://www.bitget.com/spot/AWTUSDT?type=spot
+https://www.mexc.com/zh-CN/exchange/AWT_USDT?_from=search
+https://portal.fusotao.org/#/trade/BEP20/AWT/BSC-USD
+
+Ticket purchase time: July 27th, 12 pm UTC — July 31st, 12 pm UTC
+
+
+Specific Schedule:
+
+This competition follows an elimination format with a total of 8 heroes participating. It will last for 3 days, featuring 7 matches. Players with Abyss AI Colosseum T0 tickets will be able to participate in the voting event for all 7 exciting matches, which will open within 23 hours before each match.
+
+
+July 26th: Draw for the 8 heroes to determine the match schedule
+
+July 30th, 1 pm UTC — July 31st, 12 pm UTC: Voting for the quarter-finals, lasting for 23 hours
+
+July 31st, 12 pm UTC: Quarter-finals (8 into 4) begin
+
+July 31st, 1 pm UTC — August 1st, 12 pm UTC: Voting for the semi-finals (4 into 2), lasting for 23 hours
+
+August 1st, 12 pm UTC: Semi-finals (4 into 2) begin
+
+August 1st, 1 pm UTC — August 2nd, 12 pm UTC: Voting for the finals, lasting for 23 hours
+
+August 2nd, 12 pm UTC: Finals begin
+
+
+Reward Mechanism:
+
+There will be a total prize pool consisting of the amount spent by all players on ticket purchases and contributions from other project teams.
+
+Allocation ratio of the prize pool:
+85% for player rewards
+15% will be deposited into the Abyss DAO fund, which will be transparent and will be future used for burning, inviters' rewards, operation fees, etc.
+DAO Fund Address: 0x5658aABCE58C15Ea634917670Eb8FbbaAbEFe8CA
+
+Based on the proportion of correctly guessed match outcomes and the number of tickets purchased, (The number of tickets purchased will determine the final reward settlement for players after participating in the voting event. The more tickets you buy, the more generous the rewards will be.) 85% of the total prize pool will be distributed as follows:
+
+Guessing all 7 matches correctly: Allocate 82% of 85% of the total prize pool based on the proportion of tickets held by the player to the total number of tickets guessed correctly in all 7 matches.
+
+Guessing 6 matches correctly: Allocate 18% of 85% of the total prize pool based on the proportion of tickets held by the player to the total number of tickets guessed correctly in 6 matches.
+
+(For example: If the total rewards pool is 1,000,000 AWT. And if 10 people guess 7 matches correctly, and these 10 people have 800 tickets total, one of the winners has 80 tickets, and the total rewards he/she will receive are 82%*85%*1,000,000 * (80/800) = 69,700 AWT)
+
+Note 1: The maximum reward a player can receive will be 100 times the value of the purchased ticket in one address (If a user have 50 tickets, the value of the tickets is 5,000 AWT, the maximum rewards he/she can receive will be 500,000 AWT).
+Note 2: If the rewards for this season are not fully distributed, the remaining AWT will be carried over to the prize pool of the next season.
+
+
+Invitation Mechanism:
+
+The invitation referral program will continue for this event.
+
+After logging into the website, users can generate invitation links and share them. The inviter will receive a 5% commission on the spending (ticket purchases) of the invitee.
+
+(For example: If a user invites 100 people who collectively purchase 1000 tickets, resulting in a total spending of 100,000 AWT, the inviter will receive a commission of 10,000 x 5% = 5,000 AWT.)
+
+Invitation activity duration: July 27th — July 31st
+
+We hope that the above rules and explanations provide you with a thorough understanding of this event. If you have any questions or feedback, please feel free to contact us. Enjoy your time in the Abyss AI Colosseum!
+
+Thanks to Space and Time, Chainlink, and Blockus for powering Abyss AI Colosseum!
+
+We are happy to invite you to join our Discord to discuss the game and for more information.
+
+Explore for more:
+
+Twitter: https://twitter.com/AbyssWorldHQ
+
+Website: abyssworld.games
+
+Discord: https://discord.gg/abyssworldmg
+
+Metagame Studio: https://www.metagame.industries/
+
+Reddit: https://www.reddit.com/r/AbyssWorldExplorers/
