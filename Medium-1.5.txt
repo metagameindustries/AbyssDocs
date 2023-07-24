@@ -184,3 +184,33 @@
 "The tokens you receive will have the exact same $value as your contribution. As 500,000,000 $AWT (of a 10,000,000,000 total supply) will be allocated to the sale, the final price will therefore be: Total $ raised / 500,000,000 AWT. This IDO is not just about the Abyss World project, but about each individual seeking a second chance in the Web3 field. We have weathered the industry’s darkness over the past two years, still yearning for the light. With the Abyss World community, we can march confidently toward the brightness ahead." (Page 24)
 
 "Discord. All participants will be able to share their experiential suggestions for the test in that channel. We will then establish an AWT Reward Pool to recognize and reward players who bring constructive suggestions and contribute to the game. Get ready to showcase your gaming skills and adventurous spirit as we explore a new gaming world!" (Page 29)
+
+Hello! Welcome to Abyss AI Colosseum, an exciting place where you can witness thrilling AI battles. We're launching the T0 Season of Abyss AI Colosseum Vote to Earn Event, which will last for 6 days, and 3 of these days will be dedicated to battles. The rules for this season are designed for your entertainment, and we're open to optimizing them in the future as per your needs.
+
+As a player, you can support heroes by participating in all the voting activities. To do so, you need to purchase Abyss AI Colosseum T0 Season Tickets using $AWT. Each ticket costs 100 AWT, and you can buy multiple tickets with a cap of 99 per address. However, if you want to purchase more tickets, you can use multiple addresses. Please note that for this event, the tickets cannot be transferred or traded.
+
+You can buy these tickets from July 27th, 12 pm UTC until July 31st, 12 pm UTC. The channel to redeem your tickets will be announced on July 27th. If you want to purchase AWT, you can use these links:
+
+https://www.bitget.com/spot/AWTUSDT?type=spot
+https://www.mexc.com/zh-CN/exchange/AWT_USDT?_from=search
+https://portal.fusotao.org/#/trade/BEP20/AWT/BSC-USD
+Coming to the schedule of the competition, it follows an elimination format with 8 heroes participating. It will take place over 3 days, featuring 7 matches. Once you have the Abyss AI Colosseum T0 tickets, you can vote for all 7 matches. Voting for each match will open 23 hours before it starts.
+
+The event timeline is as follows:
+
+July 26th: Draw for the 8 heroes to set the match schedule.
+July 30th, 1 pm UTC — July 31st, 12 pm UTC: Voting for the quarter-finals.
+July 31st, 12 pm UTC: Start of quarter-finals (8 into 4).
+July 31st, 1 pm UTC — August 1st, 12 pm UTC: Voting for the semi-finals (4 into 2).
+August 1st, 12 pm UTC: Start of semi-finals (4 into 2).
+August 1st, 1 pm UTC — August 2nd, 12 pm UTC: Voting for the finals.
+August 2nd, 12 pm UTC: Start of the finals.
+The total prize pool comprises the amount spent by all players on ticket purchases and contributions from other project teams. The prize pool will be allocated as follows:
+
+85% for player rewards.
+15% will be deposited into the Abyss DAO fund.
+Based on the proportion of correctly guessed match outcomes and the number of tickets purchased, 85% of the total prize pool will be distributed. If you guess all 7 matches correctly or 6 matches correctly, you will receive a proportion of the prize pool based on the number of tickets you hold.
+
+Moreover, we have an invitation referral program for this event. After logging into the website, you can generate invitation links and share them. You'll receive a 5% commission on the spending of the people you invite.
+
+For any questions or feedback, feel free to reach out to us. We hope you enjoy your time in the Abyss AI Colosseum!
